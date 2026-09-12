@@ -17,12 +17,12 @@ Grab the installer for your OS from the
 
 | Platform | File |
 |---|---|
-| Windows 10/11 (64-bit) | `Jinks-Setup-1.1.0.exe` |
-| macOS Apple Silicon | `Jinks-1.1.0-arm64-mac.zip` |
-| macOS Intel | `Jinks-1.1.0-mac.zip` |
-| Linux | `Jinks-1.1.0.AppImage` |
+| Windows 10/11 (64-bit) | `Jinks-Setup-1.2.0.exe` |
+| macOS Apple Silicon | `Jinks-1.2.0-arm64-mac.zip` |
+| macOS Intel | `Jinks-1.2.0-mac.zip` |
+| Linux | `Jinks-1.2.0.AppImage` |
 
 **macOS first launch:** unzip, drag Jinks into Applications, then right-click
-the app and choose *Open* once. **Linux:** `chmod +x Jinks-1.1.0.AppImage` and run.
+the app and choose *Open* once. **Linux:** `chmod +x Jinks-1.2.0.AppImage` and run.
 
 Built by the **Metora team** — running at [jinks.metora.ir](https://jinks.metora.ir).
